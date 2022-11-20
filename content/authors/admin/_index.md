@@ -21,22 +21,22 @@ organizations:
 bio: I am a first year CS Master's student at the University of Southern California. My research interests are chiefly Federated Learning, Statistical Machine Learning, Edge-Computing,  Edge-Accelerator Performance Characterization, Distributed and Stochastic Optimization.
 
 # Interests to show in About widget
-interests:
-  - Federated Learning
-  - Statistical Machine Learning
-  - Edge-Computing
-  - Edge Accelerator Performance Characterization
-  - Distributed and Stochastic Optimisation
+# interests:
+#   - Federated Learning
+#   - Statistical Machine Learning
+#   - Edge-Computing
+#   - Edge Accelerator Performance Characterization
+#   - Distributed and Stochastic Optimisation
 
 # Education to show in About widget
-education:
-  courses:
-    - course: MS in Computer Science
-      institution: University of Southern California
-      year: 2024
-    - course: BTech in Computer Science and Engineering
-      institution: Indian Institute of Technology Dharwad
-      year: 2021
+# education:
+#   courses:
+#     - course: MS in Computer Science
+#       institution: University of Southern California
+#       year: 2024
+#     - course: BTech in Computer Science and Engineering
+#       institution: Indian Institute of Technology Dharwad
+#       year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
