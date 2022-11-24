@@ -36,7 +36,7 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2016-04-22'
-    description: Telangana State 1st Rank among around 0.7 million students in first year intermediate examination and under top ten ranks in second year intermediate examination
+    # description: Telangana State 1st Rank among around 0.7 million students in first year intermediate examination and under top ten ranks in second year intermediate examination
     organization: TSBIE 
     # organization_url: https://tsbie.cgg.gov.in/home.do
     title: Telangana State 1st Rank
