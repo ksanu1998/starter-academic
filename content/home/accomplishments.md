@@ -26,6 +26,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: 
+    # date_end: '2020-02-16'
+    date_start: '2023-01-02'
+    # description: ''
+    organization: USC Viterbi Graduate Mentorship Program
+    organization_url: https://viterbigrad.usc.edu/student-life/viterbi-mentorship/
+    title: 'Mentor'
+    # url: ''
+  - certificate_url: 
   #   date_end: ''
     date_start: '2014-08-08'
     description: ''
