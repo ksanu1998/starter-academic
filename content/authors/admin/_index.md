@@ -78,7 +78,7 @@ highlight_name: true
 
 I am a first year Master of Science in Computer Science student at the University of Southern California. My research interests are chiefly Federated Learning, Statistical Machine Learning, Edge-Computing,  Edge-Accelerator Performance Characterization, Distributed and Stochastic Optimization.
 
-Currently, I work on-campus as a Research Assistant in the Department of Computer Science at the University of Southern California Viterbi School of Engineering under the supervision of Prof. <a href="https://vatsalsharan.github.io/">Vatsal Sharan</a>. 
+Currently, I work on-campus as a Research Assistant in the Department of Computer Science at the University of Southern California Viterbi School of Engineering, advised by Prof. <a href="https://vatsalsharan.github.io/">Vatsal Sharan</a>. 
 
 Previously, I was Project Associate - I at DREAM:Lab, <a href="https://iisc.ac.in/">IISc</a> Bangalore, advised by Prof. <a href="http://cds.iisc.ac.in/faculty/simmhan/">Yogesh Simmhan</a>, where I worked on performance characterization of Nvidia Jetson edge-accelerators on deep learning workloads, and also on a Federated Learning project.
 
