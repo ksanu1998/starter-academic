@@ -18,7 +18,7 @@ organizations:
     url: https://www.cs.usc.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a first year Master of Science in Computer Science student at the University of Southern California. My research interests are chiefly Federated Learning, Statistical Machine Learning, Edge-Computing,  Edge-Accelerator Performance Characterization, Distributed and Stochastic Optimization.
+bio: I am a first year Master of Science in Computer Science student at the University of Southern California. My research interests are chiefly Statistical Machine Learning, Deep Learning Theory, Federated Learning, Distributed and Stochastic Optimization, Edge-Computing and Edge-GPU Performance Characterization.
 
 # Interests to show in About widget
 # interests:
@@ -76,7 +76,7 @@ email: kesanapa@usc.edu
 highlight_name: true
 ---
 
-I am a first year Master of Science in Computer Science student at the University of Southern California. My research interests are chiefly Federated Learning, Statistical Machine Learning, Edge-Computing,  Edge-Accelerator Performance Characterization, Distributed and Stochastic Optimization.
+I am a first year Master of Science in Computer Science student at the University of Southern California. My research interests are chiefly Statistical Machine Learning, Deep Learning Theory, Federated Learning, Distributed and Stochastic Optimization, Edge-Computing and Edge-GPU Performance Characterization.
 
 Currently, I work on-campus as a Research Assistant in the Department of Computer Science at the University of Southern California Viterbi School of Engineering, advised by Prof. <a href="https://vatsalsharan.github.io/">Vatsal Sharan</a>. 
 
