@@ -16,10 +16,10 @@ external_link: "https://github.com/ksanu1998/Heterogeneity-Aware-Hashing"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-# image:
-#   caption: ""
-#   focal_point: ""
-#   preview_only: false
+image:
+  # caption: ""
+  focal_point: "TopLeft"
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

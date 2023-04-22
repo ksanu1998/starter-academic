@@ -19,7 +19,7 @@ external_link: "https://github.com/ksanu1998/FedExp/blob/master/README.md"
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "TopLeft"
   preview_only: false
 
 # Custom links (optional).

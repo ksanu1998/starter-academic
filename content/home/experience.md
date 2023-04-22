@@ -23,6 +23,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Research Assistant
+    company: Department of Compute Science,<br>University of Southern California
+    company_url: 'https://www.cs.usc.edu'
+    company_logo: usc
+    location: Los Angeles, CA, USA
+    date_start: '2023-03-29'
+    # date_end: ''
+    # description: 
+
   - title: Master of Science in Computer Science
     company: University of Southern California
     company_url: 'https://www.cs.usc.edu'

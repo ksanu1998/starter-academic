@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: kesanapa@usc.edu
-  phone: 213 400 2801
+  phone: +1 (213) 400-2801
   # address:
   #   street: 
   #   city: Los Angeles

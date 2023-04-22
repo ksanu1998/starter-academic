@@ -41,6 +41,16 @@ item:
     # organization_url: https://www.cbse.gov.in/
     title: Certificate of Merit
     url: ''
+
+  - certificate_url: 
+    date_end: ''
+    date_start: '2017-07-21'
+    # description: IIT JEE (Advanced) All India Rank 8682 among ∼160,000 candidates
+    organization: IIT JEE (Advanced) 
+    # organization_url: https://tsbie.cgg.gov.in/home.do
+    title: All India Rank 8682
+    # url: 
+
   - certificate_url: 
     date_end: ''
     date_start: '2016-04-22'
@@ -49,6 +59,7 @@ item:
     # organization_url: https://tsbie.cgg.gov.in/home.do
     title: Telangana State 1st Rank
     # url: 
+
   - certificate_url: 
     # date_end: '2020-12-21'
     date_start: '2018-10-06'

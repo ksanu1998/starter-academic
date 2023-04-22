@@ -16,10 +16,10 @@ external_link: "https://ksanu1998.github.io/uploads/CSCI_699__Presentation_Notes
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-# image:
-#   caption: ""
-#   focal_point: ""
-#   preview_only: false
+image:
+  # caption: ""
+  focal_point: "Left"
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
