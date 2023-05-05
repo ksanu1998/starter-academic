@@ -45,7 +45,8 @@ bio: I am a first year Master of Science in Computer Science student at the Univ
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:kesanapa@usc.edu
+    # link: mailto:kesanapa@usc.edu
+    link: mailto:ksanu1998@gmail.com
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -70,7 +71,8 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: kesanapa@usc.edu
+# email: kesanapa@usc.edu
+email: ksanu1998@gmail.com
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
