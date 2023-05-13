@@ -21,7 +21,17 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
+
+  - title: Machine Learning Software Intern
+    company: DeGirum Corp.
+    company_url: 'https://www.degirum.ai/'
+    company_logo: degirum
+    location: Santa Clara, CA, USA
+    date_start: '2023-05-12'
+    # date_end: ''
+    # description: 
 
   - title: Research Assistant
     company: Department of Compute Science,<br>University of Southern California
