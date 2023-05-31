@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Conv2D using only NumPy"
-summary: 'This code performs different types of 2D convolutions given the input and kernel parameters. It currently supports Conv2D and DepthwiseConv2D with stride, kernel dilation and image padding options. This work is being done during my summer internship at DeGirum Corp., Santa Clara.'
+summary: 'This code performs 2D convolution with the given input parameters. It currently supports `stride`, `padding`, `dilation`, and `groups` options. Tested for correctness with `torch.nn.functional.conv2d` and code included in the notebook. Take a glance through this code to understand how convolution with different options works. This work is being done during my summer internship at DeGirum Corp., Santa Clara.'
 authors:
   - admin
 tags: []
@@ -10,7 +10,7 @@ categories: []
 date: 2023-05-22T09:00:00-08:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/ksanu1998/conv-NumPy/tree/main"
+external_link: "https://github.com/ksanu1998/conv-NumPy"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,7 +28,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/ksanu1998/conv-NumPy/tree/main"
+url_code: "https://github.com/ksanu1998/conv-NumPy"
 # url_pdf: ""
 # url_slides: ""
 # url_video: ""
