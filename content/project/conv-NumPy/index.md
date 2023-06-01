@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Conv2D using only NumPy"
-summary: 'This code performs 2D convolution with the given input parameters. It currently supports `stride`, `padding`, `dilation`, and `groups` options. Tested for correctness with `torch.nn.functional.conv2d` and code included in the notebook. Take a glance through this code to understand how convolution with different options works. This work is being done during my summer internship at DeGirum Corp., Santa Clara.'
+title: "conv-NumPy"
+summary: 'An implementation of `Conv2D`, `MaxPool2D`, `Linear`, and `ReLU` using only NumPy. This work is being done during my summer internship at DeGirum Corp., Santa Clara.'
 authors:
   - admin
 tags: []
