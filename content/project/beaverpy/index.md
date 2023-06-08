@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "conv-NumPy"
-summary: 'An implementation of `Conv2D`, `MaxPool2D`, `Linear`, and `ReLU` using only NumPy. This work is being done during my summer internship at DeGirum Corp., Santa Clara.'
+title: beaverpy
+summary: beaverpy is an implementation of PyTorch operators using only NumPy and is available as a PyPI package. This work is being done during my summer internship at DeGirum Corp., Santa Clara.
 authors:
   - admin
 tags: []
@@ -10,7 +10,7 @@ categories: []
 date: 2023-05-22T09:00:00-08:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/ksanu1998/conv-NumPy"
+external_link: "https://github.com/ksanu1998/beaverpy"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,7 +28,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/ksanu1998/conv-NumPy"
+url_code: "https://github.com/ksanu1998/beaverpy"
 # url_pdf: ""
 # url_slides: ""
 # url_video: ""
