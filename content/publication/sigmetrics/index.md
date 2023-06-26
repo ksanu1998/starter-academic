@@ -40,11 +40,11 @@ featured: false
 #   icon: twitter
 
 # url_pdf: 
-# url_code:
+url_code: "https://github.com/dream-lab/edge-train-bench/tree/sigmetrics-2023"
 # url_dataset:
 # url_poster:
 # url_project:
-# url_slides:
+url_slides: "sigmetrics_presentation.pdf"
 # url_source:
 # url_video:
 
@@ -68,5 +68,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+# slides: "sigmetrics_presentation.pdf"
 ---
