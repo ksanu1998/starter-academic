@@ -29,8 +29,8 @@ item:
   - certificate_url: 
     # date_end: '2020-02-16'
     date_start: '2023-05-11'
-    # description: ''
-    organization: SIGMETRICS 2023
+    # description: Awarded a travel grant of $1200 to attend SIGMETRICS co-located with ACM FCRC 2023 at Orlando, Florida.
+    organization: SIGMETRICS, co-located with ACM FCRC 2023, Orlando, FL
     organization_url: https://www.sigmetrics.org/sigmetrics2023/
     title: 'NSF Travel Grant'
     # url: ''

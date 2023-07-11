@@ -18,7 +18,7 @@ organizations:
     url: https://www.cs.usc.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a first year Master of Science in Computer Science student at the University of Southern California. My research interests are chiefly Statistical Machine Learning, Deep Learning Theory, Federated Learning, Stochastic Optimization, Embedded Computing and Edge-GPU Performance Characterization.
+bio: I am a second year master's student in Computer Science at the University of Southern California. My research interests are chiefly Statistical Machine Learning, Edge-GPU Performance Characterization, Deep Learning Theory, Stochastic Optimization, Federated Learning, and Embedded Computing.
 
 # Interests to show in About widget
 # interests:
@@ -80,13 +80,11 @@ email: ksanu1998@gmail.com
 highlight_name: true
 ---
 
-I am a first year Master of Science in Computer Science student at the University of Southern California. My research interests are chiefly Statistical Machine Learning, Edge-GPU Performance Characterization, Deep Learning Theory, Stochastic
-Optimization, Federated Learning, and Embedded Computing.
+I am a second year master's student in Computer Science at the University of Southern California. My research interests are chiefly Statistical Machine Learning, Edge-GPU Performance Characterization, Deep Learning Theory, Stochastic Optimization, Federated Learning, and Embedded Computing.
 
 <!-- Currently, I work on-campus as a Research Assistant in the Department of Computer Science at USC Viterbi, advised by Prof. <a href="https://vatsalsharan.github.io/">Vatsal Sharan</a>, where I focus on code optimization for open source projects on tensor decomposition methods, and anomaly detection using density-based algorithms.  -->
 
-Currently, I work as a Machine Learning Software Intern at <a href="https://www.degirum.ai/">DeGirum Corp.</a>, Santa Clara. I am also a Research Assistant in the Department of Computer Science at USC Viterbi, advised by Prof. <a href="https://vatsalsharan.github.io/">Vatsal Sharan</a>, where I am contributing to an open source project on tensor decomposition methods, and working
-on a faster C++ implementation of a random forest based anomaly-detection algorithm.
+Currently, I work as a Machine Learning Software Intern at <a href="https://www.degirum.ai/">DeGirum Corp.</a>, Santa Clara, where I work on model optimization for hardware. I am also a Research Assistant in the Department of Computer Science at USC Viterbi, advised by Prof. <a href="https://vatsalsharan.github.io/">Vatsal Sharan</a>, where I am contributing to an open source project on tensor decomposition methods, and working on a faster C++ implementation of a random forest based anomaly-detection algorithm.
 
 Previously, I was Project Associate - I at DREAM:Lab, <a href="https://iisc.ac.in/">IISc</a> Bangalore, advised by Prof. <a href="http://cds.iisc.ac.in/faculty/simmhan/">Yogesh Simmhan</a>, where I worked on performance characterization of Nvidia Jetson edge-accelerators on deep learning workloads, and also on a Federated Learning project.
 
