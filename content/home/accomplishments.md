@@ -69,6 +69,7 @@ item:
     title: Telangana State 1st Rank
     # url: 
 
+  """
   - certificate_url: 
     # date_end: '2020-12-21'
     date_start: '2018-10-06'
@@ -93,6 +94,7 @@ item:
     organization_url: https://smp.iitdh.ac.in/
     title: 'Student Mentor'
     # url: ''
+  
   - certificate_url: '' 
     date_end: '2021-05-21'
     date_start: '2019-08-06'
@@ -101,6 +103,7 @@ item:
     organization_url: https://www.iitdh.ac.in/iic
     title: 'Student Coordinator'
     # url: ''
+  """
   - certificate_url: '' 
     # date_end: ''
     date_start: '2014-05-15'
