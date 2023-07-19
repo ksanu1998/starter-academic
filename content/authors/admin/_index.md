@@ -82,8 +82,6 @@ highlight_name: true
 
 I am a second year master's student in Computer Science at the University of Southern California. My research interests are chiefly Statistical Machine Learning, Edge-GPU Performance Characterization, Deep Learning Theory, Stochastic Optimization, Federated Learning, and Embedded Computing.
 
-<!-- Currently, I work on-campus as a Research Assistant in the Department of Computer Science at USC Viterbi, advised by Prof. <a href="https://vatsalsharan.github.io/">Vatsal Sharan</a>, where I focus on code optimization for open source projects on tensor decomposition methods, and anomaly detection using density-based algorithms.  -->
-
 Currently, I work as a Machine Learning Software Intern at <a href="https://www.degirum.ai/">DeGirum Corp.</a>, Santa Clara, where I focus on model optimization for hardware. I am also a Research Assistant in the Department of Computer Science at USC Viterbi, advised by Prof. <a href="https://vatsalsharan.github.io/">Vatsal Sharan</a>, where I am contributing to an open source project on tensor decomposition methods, and working on a faster C++ implementation of a random forest based anomaly-detection algorithm.
 
 Previously, I was Project Associate - I at DREAM:Lab, <a href="https://iisc.ac.in/">IISc</a> Bangalore, advised by Prof. <a href="http://cds.iisc.ac.in/faculty/simmhan/">Yogesh Simmhan</a>, where I worked on performance characterization of Nvidia Jetson edge-accelerators on deep learning workloads, and also on a Federated Learning project.
@@ -91,6 +89,4 @@ Previously, I was Project Associate - I at DREAM:Lab, <a href="https://iisc.ac.i
 Prior to that, I graduated with a Bachelor of Technology in Computer Science and Engineering from <a href="https://www.iitdh.ac.in">IIT Dharwad</a>. I worked on Federated Algorithms with Bayesian and Exponential Weighted Average approaches for my B.Tech. Project, as a member of LIaN research group, advised by Prof. <a href="https://bnbharath.wordpress.com">B. N. Bharath</a>.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Sai_Anuroop_Kesanapalli_Resume.pdf" "newtab" >}}resumé{{< /staticref >}} and {{< staticref "uploads/Sai_Anuroop_Kesanapalli_Cover_Letter.pdf" "newtab" >}}cover letter{{< /staticref >}}.
-
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/uc?export=download&id=1hOtdEqr0_R2dI66c3hPyRxrgYhjk2N-z" "newtab" >}}resumé{{< /staticref >}}. -->
+{{< icon name="download" pack="fas" >}}Download my {{< staticref "uploads/Sai_Anuroop_Kesanapalli_Resume.pdf" "newtab" >}}résumé{{< /staticref >}} and {{< staticref "uploads/Sai_Anuroop_Kesanapalli_Cover_Letter.pdf" "newtab" >}}cover letter{{< /staticref >}}.
