@@ -27,6 +27,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: 
+    date_start: '2023-07-27'
+    description: Selected for the award of the prestigious J N Tata Endowment Scholarship for the higher education of Indians, for the year 2023-24.
+    organization: The Jamsetjee Nusserwanjee Tata Endowment
+    organization_url: https://www.tatatrusts.org/our-work/individual-grants-programme/education-grants
+    title: 'J N Tata Endowment Scholarship'
+    # url: ''
+
+  - certificate_url: 
     # date_end: '2020-02-16'
     date_start: '2023-05-11'
     # description: Awarded a travel grant of $1200 to attend SIGMETRICS co-located with ACM FCRC 2023 at Orlando, Florida.
