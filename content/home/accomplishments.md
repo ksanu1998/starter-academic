@@ -28,7 +28,7 @@ date_format: Jan 2006
 item:
   - certificate_url: 
     date_start: '2023-07-27'
-    description: Selected for the award of the prestigious J N Tata Endowment Scholarship for the higher education of Indians, for the year 2023-24.
+    # description: Selected for the award of the prestigious J N Tata Endowment Scholarship for the higher education of Indians, for the year 2023-24.
     organization: The Jamsetjee Nusserwanjee Tata Endowment
     organization_url: https://www.tatatrusts.org/our-work/individual-grants-programme/education-grants
     title: 'J N Tata Endowment Scholarship'
