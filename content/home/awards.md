@@ -13,7 +13,7 @@ weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 # title: 'Accomplish&shy;ments'
-title: Accomplishments
+title: Awards
 subtitle:
 
 # Date format
@@ -29,7 +29,7 @@ item:
   - certificate_url: 
     date_start: '2023-07-27'
     # description: Selected for the award of the prestigious J N Tata Endowment Scholarship for the higher education of Indians, for the year 2023-24.
-    organization: The Jamsetjee Nusserwanjee Tata Endowment
+    organization: The Jamsetjee Nusserwanjee Tata Endowment, Mumbai, MH, India
     organization_url: https://www.tatatrusts.org/our-work/individual-grants-programme/education-grants
     title: 'J N Tata Endowment Scholarship'
     # url: ''
@@ -38,7 +38,7 @@ item:
     # date_end: '2020-02-16'
     date_start: '2023-05-11'
     # description: Awarded a travel grant of $1200 to attend SIGMETRICS co-located with ACM FCRC 2023 at Orlando, Florida.
-    organization: SIGMETRICS, co-located with ACM FCRC 2023, Orlando, FL
+    organization: SIGMETRICS, co-located with ACM FCRC 2023, Orlando, FL, USA
     organization_url: https://www.sigmetrics.org/sigmetrics2023/
     title: 'NSF Travel Grant'
     # url: ''
@@ -54,28 +54,28 @@ item:
   #   date_end: ''
     date_start: '2014-08-08'
     description: ''
-    organization: CBSE Delhi
+    organization: Central Board of Secondary Education, Delhi, India
     # organization_url: https://www.cbse.gov.in/
     title: Certificate of Merit
     url: ''
 
-  - certificate_url: 
-    date_end: ''
-    date_start: '2017-07-21'
-    # description: IIT JEE (Advanced) All India Rank 8682 among ∼160,000 candidates
-    organization: IIT JEE (Advanced) 
-    # organization_url: https://tsbie.cgg.gov.in/home.do
-    title: All India Rank 8682
-    # url: 
+  # - certificate_url: 
+  #   date_end: ''
+  #   date_start: '2017-07-21'
+  #   # description: IIT JEE (Advanced) All India Rank 8682 among ∼160,000 candidates
+  #   organization: IIT JEE (Advanced) 
+  #   # organization_url: https://tsbie.cgg.gov.in/home.do
+  #   title: All India Rank 8682
+  #   # url: 
 
-  - certificate_url: 
-    date_end: ''
-    date_start: '2016-04-22'
-    # description: Telangana State 1st Rank among around 0.7 million students in first year intermediate examination and under top ten ranks in second year intermediate examination
-    organization: TSBIE 
-    # organization_url: https://tsbie.cgg.gov.in/home.do
-    title: Telangana State 1st Rank
-    # url: 
+  # - certificate_url: 
+  #   date_end: ''
+  #   date_start: '2016-04-22'
+  #   # description: Telangana State 1st Rank among around 0.7 million students in first year intermediate examination and under top ten ranks in second year intermediate examination
+  #   organization: TSBIE 
+  #   # organization_url: https://tsbie.cgg.gov.in/home.do
+  #   title: Telangana State 1st Rank
+  #   # url: 
 
   # - certificate_url: 
   #   # date_end: '2020-12-21'
@@ -115,9 +115,9 @@ item:
     # date_end: ''
     date_start: '2014-05-15'
     # description: ''
-    organization: St. Michael’s School, Secunderabad
+    organization: St. Michael’s School, Secunderabad, TS, India
     organization_url: 
-    title: 'Recipient of Meritorious Student, School Topper and Star of Stars awards'
+    title: 'Meritorious Student, School Topper, and Star of Stars'
     # url: ''
 
 design:
