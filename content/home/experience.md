@@ -7,9 +7,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
-title: Timeline
+title: Experience
 subtitle:
 
 # Date format for experience
@@ -42,12 +42,12 @@ experience:
     # date_end: ''
     # description: 
 
-  - title: Master of Science in Computer Science
-    company: University of Southern California
-    company_url: 'https://www.cs.usc.edu'
-    company_logo: usc
-    location: Los Angeles, CA, USA
-    date_start: '2022-08-22'
+  # - title: Master of Science in Computer Science
+  #   company: University of Southern California
+  #   company_url: 'https://www.cs.usc.edu'
+  #   company_logo: usc
+  #   location: Los Angeles, CA, USA
+  #   date_start: '2022-08-22'
     # date_end: ''
     # description: 
 
@@ -65,14 +65,14 @@ experience:
   #     * Modelling
   #     * Deploying
 
-  - title: Bachelor of Technology in Computer Science and Engineering
-    company: IIT Dharwad
-    company_url: 'https://www.iitdh.ac.in'
-    company_logo: iitdh
-    location: Dharwad, KA, India
-    date_start: '2017-07-31'
-    date_end: '2021-06-21'
-    description: 
+  # - title: Bachelor of Technology in Computer Science and Engineering
+  #   company: IIT Dharwad
+  #   company_url: 'https://www.iitdh.ac.in'
+  #   company_logo: iitdh
+  #   location: Dharwad, KA, India
+  #   date_start: '2017-07-31'
+  #   date_end: '2021-06-21'
+  #   description: 
 
 design:
   columns: '2'
