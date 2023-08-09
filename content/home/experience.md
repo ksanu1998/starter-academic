@@ -51,8 +51,8 @@ experience:
     # date_end: ''
     # description: 
 
-  - title: Project Associate - I at DREAM:Lab
-    company: Indian Institute of Science
+  - title: Project Associate - I
+    company: DREAM:Lab, Indian Institute of Science
     company_url: 'https://www.iisc.ac.in'
     company_logo: iisc
     location: Bangalore, KA, India
