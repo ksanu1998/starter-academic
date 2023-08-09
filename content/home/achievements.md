@@ -43,7 +43,7 @@ item:
   #   title: 'NSF Travel Grant'
     # url: ''
   - certificate_url: 
-    # date_end: '2020-02-16'
+    # date_end: '2023-12-10'
     date_start: '2023-01-02'
     # description: ''
     organization: USC Viterbi Graduate Mentorship Program
@@ -72,9 +72,9 @@ item:
     date_end: ''
     date_start: '2016-04-22'
     # description: Telangana State 1st Rank among around 0.7 million students in first year intermediate examination and under top ten ranks in second year intermediate examination
-    organization: TSBIE 
+    organization: TSBIE Intermediate Public Examination
     # organization_url: https://tsbie.cgg.gov.in/home.do
-    title: Telangana State 1st Rank
+    title: Telangana State Rank 1
     # url: 
 
   - certificate_url: 
