@@ -90,4 +90,5 @@ Previously, I was Project Associate - I at DREAM:Lab, <a href="https://iisc.ac.i
 
 Prior to that, I graduated with a Bachelor of Technology in Computer Science and Engineering from <a href="https://www.iitdh.ac.in/">IIT Dharwad</a>. I worked on Federated Algorithms with Bayesian and Exponential Weighted Average approaches for my B.Tech. Project, as a member of LIaN research group, advised by Prof. <a href="https://bnbharath.wordpress.com/">B. N. Bharath</a>.
 
-{{< icon name="download" pack="fas" >}}Download my {{< staticref "uploads/Sai_Anuroop_Kesanapalli_Resume.pdf" "newtab" >}}résumé{{< /staticref >}} and {{< staticref "uploads/Sai_Anuroop_Kesanapalli_Cover_Letter.pdf" "newtab" >}}cover letter{{</staticref>}}.
+{{< icon name="download" pack="fas" >}}Download my {{< staticref "uploads/Sai_Anuroop_Kesanapalli_Resume.pdf" "newtab" >}}résumé{{< /staticref >}}.
+ <!-- and {{< staticref "uploads/Sai_Anuroop_Kesanapalli_Cover_Letter.pdf" "newtab" >}}cover letter{{</staticref>}}. -->
