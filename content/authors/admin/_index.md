@@ -18,7 +18,8 @@ organizations:
     url: https://www.cs.usc.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a second year master's student in Computer Science at the University of Southern California. My research interests are chiefly Statistical Machine Learning, Edge-GPU Performance Characterization, Deep Learning Theory, Stochastic Optimization, Federated Learning, and Embedded Computing.
+# bio: I am a second year master's student in Computer Science at the University of Southern California. My research interests are chiefly Statistical Machine Learning, Edge-GPU Performance Characterization, Deep Learning Theory, Stochastic Optimization, Federated Learning, and Embedded Computing.
+bio: I am a second year master's student in Computer Science at the University of Southern California. MLOps, Edge-GPU Performance Characterization, Statistical Machine Learning, Deep Learning Theory, and Federated Learning are of interest to me.
 
 # Interests to show in About widget
 # interests:
@@ -80,7 +81,8 @@ email: ksanu1998@gmail.com
 highlight_name: true
 ---
 
-I am a second year master’s student in Computer Science at the <a href="https://www.cs.usc.edu/">University of Southern California</a>. My interests are chiefly Statistical Machine Learning, Edge-GPU Performance Characterization, Deep Learning Theory, Stochastic Optimization, Federated Learning, and Embedded Computing. I have been selected for the award of the prestigious <a href="https://www.tata.com/newsroom/backing-the-brightest-jn-tata-endowment-fund">J N Tata Endowment scholarship</a> for the higher education of Indians.
+<!-- I am a second year master’s student in Computer Science at the <a href="https://www.cs.usc.edu/">University of Southern California</a>. My interests are chiefly Statistical Machine Learning, Edge-GPU Performance Characterization, Deep Learning Theory, Stochastic Optimization, Federated Learning, and Embedded Computing. I have been selected for the award of the prestigious <a href="https://www.tata.com/newsroom/backing-the-brightest-jn-tata-endowment-fund">J N Tata Endowment scholarship</a> for the higher education of Indians. -->
+I am a second year master’s student in Computer Science at the <a href="https://www.cs.usc.edu/">University of Southern California</a>. MLOps, Edge-GPU Performance Characterization, Statistical Machine Learning, Deep Learning Theory, and Federated Learning are of interest to me. I have been selected for the award of the prestigious <a href="https://www.tata.com/newsroom/backing-the-brightest-jn-tata-endowment-fund">J N Tata Endowment scholarship</a> for the higher education of Indians.
 
 I worked as a Machine Learning Software Intern at <a href="https://www.degirum.ai">DeGirum Corp.</a>, Santa Clara, where I developed an ONNX OCR pipeline with pre and post-processor modules compatible with edge-hardware, and worked on a NumPy-only implementation of some vision-based PyTorch operators. I was a Research Assistant in the Department of Computer Science at USC Viterbi, advised by Prof. <a href="https://vatsalsharan.github.io/">Vatsal Sharan</a>, where I contributed to an open source project on tensor decomposition methods, and worked on a faster C++ implementation of a random forest based anomaly-detection algorithm.
 
