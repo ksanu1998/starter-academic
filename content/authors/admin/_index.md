@@ -80,7 +80,7 @@ email: ksanu1998@gmail.com
 highlight_name: true
 ---
 
-I am a second year master's student in Computer Science at the <a href="https://viterbischool.usc.edu">University of Southern California</a>. My research interests are chiefly Statistical Machine Learning, Edge-GPU Performance Characterization, Deep Learning Theory, Stochastic Optimization, Federated Learning, and Embedded Computing. I have been selected for the award of the prestigious J N Tata Endowment scholarship for the higher education of Indians.
+I am a second year master's student in Computer Science at the <a href="https://viterbischool.usc.edu">University of Southern California</a>. My research interests are chiefly Statistical Machine Learning, Edge-GPU Performance Characterization, Deep Learning Theory, Stochastic Optimization, Federated Learning, and Embedded Computing. I have been selected for the award of the prestigious <a href="https://www.tata.com/newsroom/backing-the-brightest-jn-tata-endowment-fund">J N Tata Endowment scholarship</a> for the higher education of Indians.
 
 Currently, I work as a Machine Learning Software Intern at <a href="https://www.degirum.ai/">DeGirum Corp.</a>, Santa Clara, where I focus on model optimization for hardware. I worked as a Research Assistant in the Department of Computer Science at USC Viterbi, advised by Prof. <a href="https://vatsalsharan.github.io/">Vatsal Sharan</a>, where I contributed to an open source project on tensor decomposition methods, and worked on a faster C++ implementation of a random forest based anomaly-detection algorithm.
 
