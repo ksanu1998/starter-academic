@@ -30,7 +30,7 @@ experience:
     company_logo: degirum
     location: Santa Clara, CA, USA
     date_start: '2023-05-12'
-    # date_end: ''
+    date_end: '2023-08-18'
     # description: 
 
   - title: Research Assistant
@@ -39,7 +39,7 @@ experience:
     company_logo: usc
     location: Los Angeles, CA, USA
     date_start: '2023-03-29'
-    # date_end: ''
+    date_end: '2023-08-04'
     # description: 
 
   # - title: Master of Science in Computer Science
