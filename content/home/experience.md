@@ -34,7 +34,7 @@ experience:
     # description: 
 
   - title: Research Assistant
-    company: Department of Compute Science,<br>University of Southern California
+    company: University of Southern California
     company_url: 'https://www.cs.usc.edu'
     company_logo: usc
     location: Los Angeles, CA, USA
@@ -52,7 +52,7 @@ experience:
     # description: 
 
   - title: Project Associate - I at DREAM:Lab
-    company: IISc Bangalore
+    company: Indian Institute of Science
     company_url: 'https://www.iisc.ac.in'
     company_logo: iisc
     location: Bangalore, KA, India
