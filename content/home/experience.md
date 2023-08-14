@@ -24,6 +24,15 @@ date_format: Jan 2006
 
 experience:
 
+  - title: Course Producer
+    company: University of Southern California
+    company_url: 'https://www.cs.usc.edu'
+    company_logo: usc
+    location: Los Angeles, CA, USA
+    date_start: '2023-08-21'
+    # date_end: '2023-08-04'
+    # description: 
+
   - title: Machine Learning Software Intern
     company: DeGirum Corp.
     company_url: 'https://www.degirum.ai/'
