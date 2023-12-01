@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: beaverpy
-summary: beaverpy is an implementation of PyTorch operators using only NumPy and is available as a PyPI package. This work is being done during my summer internship at DeGirum Corp., Santa Clara.
+summary: beaverpy is an implementation of PyTorch operators using only NumPy and is available as a PyPI package. This work was done during my summer internship at DeGirum Corp., Santa Clara.
 authors:
   - admin
 tags: []

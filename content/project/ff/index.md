@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Forward-Forward: Is it time to bid adieu to BackProp?"
-summary: 'The goal of this project is to --<br> * Implement and study the <a href="https://www.cs.toronto.edu/~hinton/FFA13.pdf">Forward-Forward</a> (FF) algorithm proposed by <a href="https://www.cs.toronto.edu/~hinton/">Geoffrey Hinton</a> and compare it with the traditional back-propagation (BackProp) framework<br>* Study the architectural differences of FF and BackProp and explore new architectures<br>* Analyze system performance of FF and BackProp<br><br> This work is done towards the coursework of CSCI 566: Deep Learning and its Applications, Spring 2023, USC.'
+summary: 'The goal of this project is to --<br> * Implement and study the <a href="https://www.cs.toronto.edu/~hinton/FFA13.pdf">Forward-Forward</a> (FF) algorithm proposed by <a href="https://www.cs.toronto.edu/~hinton/">Geoffrey Hinton</a> and compare it with the traditional back-propagation (BackProp) framework<br>* Study the architectural differences of FF and BackProp and explore new architectures<br>* Analyze system performance of FF and BackProp<br><br> This work was done for the course project of CSCI 566: Deep Learning and its Applications, Spring 2023, USC.'
 authors:
   - admin
   - Shashank Rangarajan
