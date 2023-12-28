@@ -19,7 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 # bio: I am a second year master's student in Computer Science at the University of Southern California. My research interests are chiefly Statistical Machine Learning, Edge-GPU Performance Characterization, Deep Learning Theory, Stochastic Optimization, Federated Learning, and Embedded Computing.
-bio: I am a second year master's student in Computer Science at the University of Southern California. MLOps, Edge-GPU Performance Characterization, Statistical Machine Learning, Deep Learning Theory, Natural Language Processing, Federated Learning, and Operating Systems are of interest to me.
+# bio:
 
 # Interests to show in About widget
 # interests:
