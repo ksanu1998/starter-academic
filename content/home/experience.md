@@ -75,7 +75,7 @@ experience:
   #     * Deploying
 
   - title: Undergraduate Researcher
-    company: Indian Institute of Technology (IIT) Dharwad
+    company: LIaN Lab, Indian Institute of Technology (IIT) Dharwad
     company_url: 'https://bnbharath.wordpress.com/lian-lab/'
     company_logo: iitdh
     location: Dharwad, KA, India

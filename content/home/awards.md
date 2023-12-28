@@ -49,14 +49,15 @@ item:
     organization_url: https://www.sigmetrics.org/sigmetrics2023/
     title: 'NSF Travel Grant'
     # url: ''
-  # - certificate_url: 
-  #   # date_end: '2020-02-16'
-  #   date_start: '2023-01-02'
-  #   # description: ''
-  #   organization: USC Viterbi Graduate Mentorship Program
-  #   organization_url: https://viterbigrad.usc.edu/student-life/viterbi-mentorship/
-  #   title: 'Mentor'
-  #   # url: ''
+  - certificate_url: 
+    # date_end: '2020-02-16'
+    date_start: '2023-12-01'
+    # description: ''
+    organization: Indian Institute of Technology Dharwad
+    organization_url: https://www.iitdh.ac.in/
+    title: 'AP Grade for exceptional performance'
+    # url: ''
+
   - certificate_url: 
   #   date_end: ''
     date_start: '2014-08-08'
