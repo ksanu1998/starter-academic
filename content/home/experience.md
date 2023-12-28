@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Experience
-subtitle:
+subtitle: Work & Research
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -61,7 +61,7 @@ experience:
     # description: 
 
   - title: Project Associate - I
-    company: DREAM:Lab, Indian Institute of Science
+    company: DREAM:Lab, Indian Institute of Science (IISc)
     company_url: 'https://www.iisc.ac.in'
     company_logo: iisc
     location: Bangalore, KA, India
@@ -74,14 +74,14 @@ experience:
   #     * Modelling
   #     * Deploying
 
-  # - title: Bachelor of Technology in Computer Science and Engineering
-  #   company: IIT Dharwad
-  #   company_url: 'https://www.iitdh.ac.in'
-  #   company_logo: iitdh
-  #   location: Dharwad, KA, India
-  #   date_start: '2017-07-31'
-  #   date_end: '2021-06-21'
-  #   description: 
+  - title: Undergraduate Researcher
+    company: Indian Institute of Technology (IIT) Dharwad
+    company_url: 'https://bnbharath.wordpress.com/lian-lab/'
+    company_logo: iitdh
+    location: Dharwad, KA, India
+    date_start: '2020-08-01'
+    date_end: '2021-06-21'
+    description: 
 
 design:
   columns: '2'

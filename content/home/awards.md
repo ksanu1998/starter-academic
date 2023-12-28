@@ -9,12 +9,12 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 # title: 'Accomplish&shy;ments'
 title: Awards
-subtitle:
+subtitle: \& Achievements
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -32,6 +32,13 @@ item:
     organization: The Jamsetjee Nusserwanjee Tata Endowment, Mumbai, MH, India
     organization_url: https://www.tatatrusts.org/our-work/individual-grants-programme/education-grants
     title: 'J N Tata Endowment Scholarship'
+    # url: ''
+
+  - certificate_url: 
+    date_start: '2023-12-26'
+    organization: Tata Education and Development Trust, Mumbai, MH, India
+    organization_url: https://www.tatatrusts.org/our-work/individual-grants-programme/education-grants
+    title: 'Travel Grant'
     # url: ''
 
   - certificate_url: 
@@ -58,6 +65,19 @@ item:
     # organization_url: https://www.cbse.gov.in/
     title: Certificate of Merit
     url: ''
+
+
+  - certificate_url: 
+    date_end: ''
+    date_start: '2017-07-21'
+    organization: IIT JEE (Advanced) 
+    title: All India Rank 8682
+
+  - certificate_url: 
+    date_end: ''
+    date_start: '2016-04-22'
+    organization: TSBIE Intermediate Public Examination
+    title: Telangana State Rank 1
 
   # - certificate_url: 
   #   date_end: ''

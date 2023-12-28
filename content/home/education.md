@@ -66,7 +66,7 @@ experience:
   #     * Deploying
 
   - title: Bachelor of Technology in Computer Science and Engineering
-    company: IIT Dharwad
+    company: Indian Institute of Technology (IIT) Dharwad
     company_url: 'https://www.iitdh.ac.in'
     company_logo: iitdh
     location: Dharwad, KA, India
