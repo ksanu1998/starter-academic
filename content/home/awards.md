@@ -35,10 +35,10 @@ item:
     # url: ''
 
   - certificate_url: 
-    date_start: '2023-12-26'
+    date_start: '2024-01-23'
     organization: Tata Education and Development Trust, Mumbai, MH, India
     organization_url: https://www.tatatrusts.org/our-work/individual-grants-programme/education-grants
-    title: 'Travel Grant'
+    title: 'Gift Award and Travel Grant'
     # url: ''
 
   - certificate_url: 
