@@ -114,7 +114,7 @@ From Theory to Algorithms**](https://www.cs.huji.ac.il/~shais/UnderstandingMachi
 
 ---
 
-Special thanks to 
+Special thanks to the following professors for having taught wonderful courses at IIT Dharwad / Bombay and University of Southern California, and making resources publicly available on their webpages.
 *  [Prof. Balmohan Vishnu Limaye](https://www.math.iitb.ac.in/~bvl/), <small>Professor Emeritus, Department of Mathematics, IIT Bombay, and former Visiting Professor, Department of Mathematics, IIT Dharwad</small>
 * [Prof. Bharath B. N](https://bharathbettagere.github.io/mywebpage/), <small>Assistant Professor, Department of Electrical, Electronics and Communication Engineering, IIT Dharwad</small>
 * [Prof. Vatsal Sharan](https://vatsalsharan.github.io/), <small> Assistant Professor, Thomas Lord Department of Computer Science, University of Southern California </small>
