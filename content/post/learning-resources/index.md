@@ -1,10 +1,9 @@
 ---
 title: Great learning resources
-subtitle: This is a compendium of excellent books, lecture notes, and slides, spanning various fields of study in Mathematics, Machine Learning, Computer Science, and Natural Sciences, that are publicly available.
+subtitle: This is a compendium of excellent books, lecture notes, and slides, spanning various fields of study in Mathematics, Machine Learning, Computer Science, Engineering, Natural Sciences, Social Sciences and Literature, that are publicly available.
 
 # Summary for listings and search engines
-summary: This is a compendium of great books, lecture notes, and slides, spanning various fields of study in Mathematics, Machine Learning, Computer Science, and Natural Sciences, that are publicly available.
-
+summary: This is a compendium of excellent books, lecture notes, and slides, spanning various fields of study in Mathematics, Machine Learning, Computer Science, Engineering, Natural Sciences, Social Sciences and Literature, that are publicly available.
 # Link this post with a project
 # projects: []
 
@@ -75,11 +74,31 @@ From Theory to Algorithms**](https://www.cs.huji.ac.il/~shais/UnderstandingMachi
 * [**Software Engineering: A Practitioner's Approach**](https://intranetssn.github.io/www.ssn.net/twiki/pub/CseIntranet/CseBCS6403/PressmanBook.pdf), by Roger S. Pressman
 * [**Distributed Systems: Concepts and Design**](https://bedford-computing.co.uk/learning/wp-content/uploads/2016/03/george-coulouris-distributed-systems-concepts-and-design-5th-edition.pdf), by George Coulouris, Jean Dollimore, Tim Kindberg, and Gordon Blair
 
+## Engineering
+* [**Engineering Drawing**](https://ia601704.us.archive.org/22/items/engineering-drawing-by-n.-d-bhatt/ENGINEERING%20DRAWING%20BY%20N.D%20BHATT.pdf), by N. D. Bhatt
+* [**Foundations of Analog and Digital Circuits**](https://ia801500.us.archive.org/12/items/Foundations_of_Analog_and_Digital_Circuits_Mas/Foundations_of_Analog_and_Digital_Circuits_Mas.pdf), by Anant Agarwal and Jeffrey Lang
+* [**Digital Logic and Computer Design**](https://ia800607.us.archive.org/3/items/DigitalLogicAndComputerDesignByM.MorrisMano2ndEdition/Digital%20Logic%20And%20Computer%20Design%20By%20M.%20Morris%20Mano%20%282nd%20Edition%29.pdf), by M. Morris Mano
+
 ## Natural Sciences
-* [**Shriver & Atkins' Inorganic Chemistry**](https://edisciplinas.usp.br/pluginfile.php/7940313/mod_resource/content/1/Shriver%20%20Atkins%20-%20Inorganic%20Chemistry%205th.pdf), by Peter Atkins, Tina Overton, Jonathan Rourke, Mark Weller, Fraser Armstrong, and Michael Hagerman
-* [**Campbell Biology**](https://www.pearsonhighered.com/assets/preface/0/1/3/5/0135855837.pdf), by Lisa A. Urry, Michael L. Cain, Steven A. Wasserman, Peter V. Minorsky, and Rebecca B. Orr
+* [**Concepts of Physics**](https://images.collegedunia.com/public/image/b8ccbe2a7cb4dc6c7a5bbcb1bec3c41f.pdf), by H. C. Verma
+* [**Problems in General Physics**](https://ia600709.us.archive.org/1/items/IrodovProblemsInGeneralPhysics/Irodov-Problems_in_General_Physics.pdf), by I. E. Irodov
 * [**Fundamentals of Physics**](https://ia801804.us.archive.org/28/items/2014-jw-fundamentals-of-physics-extended-10th-ed-tand-a_202011/2014%20JW%20Fundamentals%20Of%20Physics%20Extended%2010th%20Ed%20TandA.pdf), by Robert Resnick, David Halliday, and Jearl Walker
 * [**Introduction to Electrodynamics**](http://www-pnp.physics.ox.ac.uk/~gwenlan/teaching/EM/introduction-to-electrodynamics-d-j-griffiths-4ed.pdf), by David J. Griffiths
+* [**Shriver & Atkins' Inorganic Chemistry**](https://edisciplinas.usp.br/pluginfile.php/7940313/mod_resource/content/1/Shriver%20%20Atkins%20-%20Inorganic%20Chemistry%205th.pdf), by Peter Atkins, Tina Overton, Jonathan Rourke, Mark Weller, Fraser Armstrong, and Michael Hagerman
+* [**Campbell Biology**](https://www.pearsonhighered.com/assets/preface/0/1/3/5/0135855837.pdf), by Lisa A. Urry, Michael L. Cain, Steven A. Wasserman, Peter V. Minorsky, and Rebecca B. Orr
+
+
+## Social Sciences and Literature
+* [**Microeconomics**](https://lms-paralel.esaunggul.ac.id/pluginfile.php?file=%2F222814%2Fmod_resource%2Fcontent%2F2%2FMicroeconomics%20-%20Robert%20Pindyck%2C%20Daniel%20Rubinfeld.pdf), by Robert S. Pindyck and Daniel L. Rubinfeld
+* [**Macroeconomics**](https://jollygreengeneral.typepad.com/files/n.-gregory-mankiw-macroeconomics-7th-edition-2009.pdf), by N. Gregory Mankiw
+* [**Economics**](https://moodle.estgv.ipv.pt/201920/pluginfile.php/59329/mod_resource/content/1/samunord19.pdf), by Paul A. Samuelson and William D. Nordhaus
+* [**Course in General Linguistics**](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fulllist/first/en122/lecturelist2019-20/saussure_course_in_general_linguistics.pdf), by Ferdinand de Saussure, translated and annotated by Roy Harris
+* [**The Arctic Home in the Vedas: Being also a new key to the interpretation of many vedic texts and legends**](https://ignca.gov.in/Asi_data/9566.pdf), by Lokmanya Bal Gangadhar Tilak
+* [**Empires of the Indus: The Story of a River**](https://apnaorg.com/books/english/empires-of-the-indus/empires-of-the-indus.pdf), by Alice Albinia
+* [**Oedipus Rex**](https://s3.amazonaws.com/scschoolfiles/720/oedipus_full_text_fagles_with_scenes_labeled.pdf), by Sophocles, translated by Robert Fagles
+* [**Animal Farm**](https://ia800905.us.archive.org/25/items/AnimalFarmByGeorgeOrwell/Animal%20Farm%20by%20George%20Orwell.pdf), by George Orwell
+* [**I, Robot**](https://www2.cs.sfu.ca/~vaughan/teaching/415/papers/I,%20Robot%20Ch1-3.pdf), by Isaac Asimov
+* [**Stories of Your Life and Others**](https://raley.english.ucsb.edu/wp-content/uploads/Reading/Chiang-story.pdf), by Ted Chiang
 
 ---
 
@@ -89,4 +108,4 @@ Special thanks to
 * [Prof. Vatsal Sharan](https://vatsalsharan.github.io/), <small> Assistant Professor, Thomas Lord Department of Computer Science, University of Southern California </small>
 ---
 
-> Courtesy to authors of the content, no copyright infringement intended. Sole purpose of this page is to make publicly available learning resources more accessible, for the benefit of all.<br>
+> Courtesy to authors and publishers of the content, no copyright infringement intended. Sole purpose of this page is to make publicly available learning resources more accessible, for the benefit of all.<br>
