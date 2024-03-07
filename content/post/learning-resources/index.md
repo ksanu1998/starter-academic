@@ -1,9 +1,9 @@
 ---
 title: Great learning resources
-subtitle: This is a compendium of excellent books, lecture notes, and slides, spanning various fields of study in Mathematics, Machine Learning, Computer Science, Engineering, Natural Sciences, Social Sciences and Literature, that are publicly available.
+subtitle: This is a compendium of excellent books, lecture notes, and slides, spanning various fields of study in Mathematics, Machine Learning, Computer Science, Engineering, Natural Sciences, Social Sciences, and Literature, that are publicly available.
 
 # Summary for listings and search engines
-summary: This is a compendium of excellent books, lecture notes, and slides, spanning various fields of study in Mathematics, Machine Learning, Computer Science, Engineering, Natural Sciences, Social Sciences and Literature, that are publicly available.
+summary: This is a compendium of excellent books, lecture notes, and slides, spanning various fields of study in Mathematics, Machine Learning, Computer Science, Engineering, Natural Sciences, Social Sciences, and Literature, that are publicly available.
 # Link this post with a project
 # projects: []
 
@@ -88,13 +88,21 @@ From Theory to Algorithms**](https://www.cs.huji.ac.il/~shais/UnderstandingMachi
 * [**Campbell Biology**](https://www.pearsonhighered.com/assets/preface/0/1/3/5/0135855837.pdf), by Lisa A. Urry, Michael L. Cain, Steven A. Wasserman, Peter V. Minorsky, and Rebecca B. Orr
 
 
-## Social Sciences and Literature
+## Social Sciences
 * [**Microeconomics**](https://lms-paralel.esaunggul.ac.id/pluginfile.php?file=%2F222814%2Fmod_resource%2Fcontent%2F2%2FMicroeconomics%20-%20Robert%20Pindyck%2C%20Daniel%20Rubinfeld.pdf), by Robert S. Pindyck and Daniel L. Rubinfeld
 * [**Macroeconomics**](https://jollygreengeneral.typepad.com/files/n.-gregory-mankiw-macroeconomics-7th-edition-2009.pdf), by N. Gregory Mankiw
 * [**Economics**](https://moodle.estgv.ipv.pt/201920/pluginfile.php/59329/mod_resource/content/1/samunord19.pdf), by Paul A. Samuelson and William D. Nordhaus
 * [**Course in General Linguistics**](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fulllist/first/en122/lecturelist2019-20/saussure_course_in_general_linguistics.pdf), by Ferdinand de Saussure, translated and annotated by Roy Harris
+
+## Literature
+* [**Rig-Veda-Sanhita: The Sacred Hymns of the Brahmans**](https://archive.org/details/rigvedasanhitasa01syaauoft/page/n7/mode/2up), together with the commentary of Sayanacharya, edited by Max Müller
+* [**Ramayana**](https://www.valmiki.iitk.ac.in/content?language=dv&field_kanda_tid=1&field_sarga_value=1&field_sloka_value=1), by Maharshi Valmiki, website developed and maintained by IIT Kanpur
+* [**Srimad BhagavadGita**](https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=1), by Veda-Vyasa, website developed and maintained by IIT Kanpur
+* [**Works of Sankaracharya**](https://www.sankara.iitk.ac.in/), website developed and maintained by IIT Kanpur
 * [**The Arctic Home in the Vedas: Being also a new key to the interpretation of many vedic texts and legends**](https://ignca.gov.in/Asi_data/9566.pdf), by Lokmanya Bal Gangadhar Tilak
+
 * [**Empires of the Indus: The Story of a River**](https://apnaorg.com/books/english/empires-of-the-indus/empires-of-the-indus.pdf), by Alice Albinia
+* [**Aristotle: On the Art of Poetry**](https://ia800304.us.archive.org/10/items/aristotleonarto00aris/aristotleonarto00aris.pdf), translated by Ingram Bywater, with a preface by Gilbert Murray
 * [**Oedipus Rex**](https://s3.amazonaws.com/scschoolfiles/720/oedipus_full_text_fagles_with_scenes_labeled.pdf), by Sophocles, translated by Robert Fagles
 * [**Animal Farm**](https://ia800905.us.archive.org/25/items/AnimalFarmByGeorgeOrwell/Animal%20Farm%20by%20George%20Orwell.pdf), by George Orwell
 * [**I, Robot**](https://www2.cs.sfu.ca/~vaughan/teaching/415/papers/I,%20Robot%20Ch1-3.pdf), by Isaac Asimov
