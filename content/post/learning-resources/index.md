@@ -96,7 +96,11 @@ From Theory to Algorithms**](https://www.cs.huji.ac.il/~shais/UnderstandingMachi
 
 ## Literature
 * [**Rig-Veda-Sanhita: The Sacred Hymns of the Brahmans**](https://archive.org/details/rigvedasanhitasa01syaauoft/page/n7/mode/2up), together with the commentary of Sayanacharya, edited by Max Müller
+* [**The Yajur Veda**](https://ia802901.us.archive.org/33/items/yajurveda029670mbp/yajurveda029670mbp.pdf), translated by Devi Chand
+* [**SamaVeda**](https://ia801906.us.archive.org/6/items/wg867/WG867-2013-SamVeda.pdf), English translation by Tulsi Ram
+* [**Atharva-Veda**](https://archive.org/details/atharva-veda-vol-2-of-2/mode/2up), English translation by Tulsi Ram
 * [**Ramayana**](https://www.valmiki.iitk.ac.in/content?language=dv&field_kanda_tid=1&field_sarga_value=1&field_sloka_value=1), by Maharshi Valmiki, website developed and maintained by IIT Kanpur
+* [**Mahabharata**](https://archive.org/details/mahabharata-by-gita-press-in-hindi-and-sanskrit/Mahabharata%20Volume%201/), by Veda-Vyasa, published by Gita Press 
 * [**Srimad BhagavadGita**](https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=1), by Veda-Vyasa, website developed and maintained by IIT Kanpur
 * [**Works of Sankaracharya**](https://www.sankara.iitk.ac.in/), website developed and maintained by IIT Kanpur
 * [**The Arctic Home in the Vedas: Being also a new key to the interpretation of many vedic texts and legends**](https://ignca.gov.in/Asi_data/9566.pdf), by Lokmanya Bal Gangadhar Tilak
