@@ -1,9 +1,9 @@
 ---
 title: Great learning resources
-subtitle: This is a compendium of great books, lecture notes, and slides, spanning various fields of study in Mathematics, Machine Learning, and Computer Science, that are publicly available.
+subtitle: This is a compendium of great books, lecture notes, and slides, spanning various fields of study in Mathematics, Machine Learning, Computer Science, and Natural Sciences, that are publicly available.
 
 # Summary for listings and search engines
-summary: This is a compendium of great books, lecture notes, and slides, spanning various fields of study in Mathematics, Machine Learning, and Computer Science, that are publicly available.
+summary: This is a compendium of great books, lecture notes, and slides, spanning various fields of study in Mathematics, Machine Learning, Computer Science, and Natural Sciences, that are publicly available.
 
 # Link this post with a project
 # projects: []
@@ -40,6 +40,8 @@ authors:
 
 ## Mathematics
 * [**Introduction to Probability**](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/d973b10c2587781f86ca4f2aff49098f_MITRES_6_012S18_Textbook.pdf), by Dimitri P. Bertsekas and John N. Tsitsiklis
+* [**Introduction to Probability and Statistics for Engineers and Scientists**](https://minerva.it.manchester.ac.uk/~saralees/statbook3.pdf), by Sheldon M. Ross
+* [**Elements of Discrete Mathematics**](https://www.people.vcu.edu/~rhammack/Discrete/Alpha.pdf), by Richard Hammack
 * [**Lecture Notes in Linear Algebra and Matrix Analysis**](https://bharathbettagerenagaraja.files.wordpress.com/2016/07/e212_matrixtheory_oct8.pdf), by Bharath B. N
 * [**Lecture Slides in Calculus**](https://drive.google.com/open?id=1ZND5I8g1yGBzNRii4TkZBr7mX2T-8kao), by Balmohan Vishnu Limaye
 * [**Lecture Slides in Linear Algebra**](https://drive.google.com/open?id=1jUO2FgE4V8FE5PIZEcZ68GOHTi24guNm), by Balmohan Vishnu Limaye
@@ -72,3 +74,19 @@ From Theory to Algorithms**](https://www.cs.huji.ac.il/~shais/UnderstandingMachi
 * [**Operating Systems Concepts**](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf), by Abraham Silberschatz, Peter Baer Galvin, and Greg Gagne
 * [**Software Engineering: A Practitioner's Approach**](https://intranetssn.github.io/www.ssn.net/twiki/pub/CseIntranet/CseBCS6403/PressmanBook.pdf), by Roger S. Pressman
 * [**Distributed Systems: Concepts and Design**](https://bedford-computing.co.uk/learning/wp-content/uploads/2016/03/george-coulouris-distributed-systems-concepts-and-design-5th-edition.pdf), by George Coulouris, Jean Dollimore, Tim Kindberg, and Gordon Blair
+
+## Natural Sciences
+* [**Shriver & Atkins' Inorganic Chemistry**](https://edisciplinas.usp.br/pluginfile.php/7940313/mod_resource/content/1/Shriver%20%20Atkins%20-%20Inorganic%20Chemistry%205th.pdf), by Peter Atkins, Tina Overton, Jonathan Rourke, Mark Weller, Fraser Armstrong, and Michael Hagerman
+* [**Campbell Biology**](https://www.pearsonhighered.com/assets/preface/0/1/3/5/0135855837.pdf), by Lisa A. Urry, Michael L. Cain, Steven A. Wasserman, Peter V. Minorsky, and Rebecca B. Orr
+* [**Fundamentals of Physics**](https://ia801804.us.archive.org/28/items/2014-jw-fundamentals-of-physics-extended-10th-ed-tand-a_202011/2014%20JW%20Fundamentals%20Of%20Physics%20Extended%2010th%20Ed%20TandA.pdf), by Robert Resnick, David Halliday, and Jearl Walker
+* [**Introduction to Electrodynamics**](http://www-pnp.physics.ox.ac.uk/~gwenlan/teaching/EM/introduction-to-electrodynamics-d-j-griffiths-4ed.pdf), by David J. Griffiths
+
+---
+
+Special thanks to 
+*  [Prof. Balmohan Vishnu Limaye](https://www.math.iitb.ac.in/~bvl/), <small>Professor Emeritus, Department of Mathematics, IIT Bombay, and former Visiting Professor, Department of Mathematics, IIT Dharwad</small>
+* [Prof. Bharath B. N](https://bharathbettagere.github.io/mywebpage/), <small>Assistant Professor, Department of Electrical, Electronics and Communication Engineering, IIT Dharwad</small>
+* [Prof. Vatsal Sharan](https://vatsalsharan.github.io/), <small> Assistant Professor, Thomas Lord Department of Computer Science, University of Southern California </small>
+---
+
+> Courtesy to authors of the content, no copyright infringement intended. Sole purpose of this page is to make publicly available learning resources more accessible, for the benefit of all.<br>
