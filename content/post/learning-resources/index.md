@@ -1,6 +1,6 @@
 ---
 title: Great learning resources
-subtitle: This is a compendium of great books, lecture notes, and slides, spanning various fields of study in Mathematics, Machine Learning, Computer Science, and Natural Sciences, that are publicly available.
+subtitle: This is a compendium of excellent books, lecture notes, and slides, spanning various fields of study in Mathematics, Machine Learning, Computer Science, and Natural Sciences, that are publicly available.
 
 # Summary for listings and search engines
 summary: This is a compendium of great books, lecture notes, and slides, spanning various fields of study in Mathematics, Machine Learning, Computer Science, and Natural Sciences, that are publicly available.
@@ -12,7 +12,7 @@ summary: This is a compendium of great books, lecture notes, and slides, spannin
 date: '2024-03-06T00:00:00Z'
 
 # Date updated
-lastmod: '2024-03-06T00:00:00Z'
+lastmod: '2024-03-07T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
