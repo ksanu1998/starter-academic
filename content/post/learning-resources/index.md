@@ -42,6 +42,7 @@ authors:
 * [**Introduction to Probability and Statistics for Engineers and Scientists**](https://minerva.it.manchester.ac.uk/~saralees/statbook3.pdf), by Sheldon M. Ross
 * [**Elements of Discrete Mathematics**](https://www.people.vcu.edu/~rhammack/Discrete/Alpha.pdf), by Richard Hammack
 * [**Lecture Notes in Linear Algebra and Matrix Analysis**](https://bharathbettagerenagaraja.files.wordpress.com/2016/07/e212_matrixtheory_oct8.pdf), by Bharath B. N
+* [**Lecture Notes in Data Analysis**](https://hackmd.io/@bharathbn/ryNX5Zygp), by Bharath B. N
 * [**Lecture Slides in Calculus**](https://drive.google.com/open?id=1ZND5I8g1yGBzNRii4TkZBr7mX2T-8kao), by Balmohan Vishnu Limaye
 * [**Lecture Slides in Linear Algebra**](https://drive.google.com/open?id=1jUO2FgE4V8FE5PIZEcZ68GOHTi24guNm), by Balmohan Vishnu Limaye
 * [**Lecture notes on Ordinary Differential Equations**](https://www.math.iitb.ac.in/~siva/afs07.pdf), by S. Sivaji Ganesh
