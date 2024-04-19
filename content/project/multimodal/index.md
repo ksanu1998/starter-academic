@@ -32,7 +32,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/ksanu1998/multimodal_course_project"
-url_pdf: "https://ksanu1998.github.io/uploads/CSCI_535_Midterm_Report.pdf"
+url_pdf: "https://ksanu1998.github.io/uploads/multimodal.pdf"
 url_slides: "https://ksanu1998.github.io/uploads/CSCI_535_Midterm_Presentation.pdf"
 # url_video: ""
 
