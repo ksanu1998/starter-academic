@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A multimodal architecture with shared encoder that uses spectrograms for audio"
-summary: "Multimodal learning aims to create models that pro- cess and relate information from multiple modalities. A shared encoder architecture may be capable of fusing multimodal information while providing better synergy between modalities compared to architectures that use separate encoders. We work on a novel audio-visual learning paradigm where audio data is represented as spectrograms, in order for the embeddings to be used with an encoder that is shared between audio and video data. <br>This work is being done for the course project of CSCI 535 Multimodal Probabilistic Learning of Human Communication, Spring 2024, USC."
+title: "A comparison of shared encoders for multimodal emotion recognition"
+summary: "Developed unimodal audio and vision, and multimodal emotion recognition pipelines. Employed various classes of shared encoders -- 2D CNNs (ResNet18, GoogLeNet, VGG16), 3D CNNs (Simple3D CNN, I3D), Transformers (ViT, VideoMAE). Tested our pipelines on a full-scale version of CREMA-D dataset that contains 7442 videos of actors expressing 6 kinds of emotions in various intensities. Presented a principled comparison of the performance of different pipelines and encoders, identified the achievements and shortcomings of these architectures, and discussed the implications along with the possibilities for future work.<br>This work is done for the course project of CSCI 535 Multimodal Probabilistic Learning of Human Communication, Spring 2024, USC."
 authors:
   - admin
   - Riya Ranjan
@@ -32,7 +32,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/ksanu1998/multimodal_course_project"
-url_pdf: "https://ksanu1998.github.io/uploads/multimodal.pdf"
+url_pdf: "https://ksanu1998.github.io/uploads/CSCI_535_Midterm_Report.pdf"
 url_slides: "https://ksanu1998.github.io/uploads/CSCI_535_Midterm_Presentation.pdf"
 # url_video: ""
 
