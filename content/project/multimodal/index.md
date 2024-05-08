@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "A comparison of shared encoders for multimodal emotion recognition"
-summary: "Developed unimodal audio and vision, and multimodal emotion recognition pipelines. Employed various classes of shared encoders -- 2D CNNs (ResNet18, GoogLeNet, VGG16), 3D CNNs (Simple3D CNN, I3D), Transformers (ViT, VideoMAE). Tested our pipelines on a full-scale version of CREMA-D dataset that contains 7442 videos of actors expressing 6 kinds of emotions in various intensities. Presented a principled comparison of the performance of different pipelines and encoders, identified the achievements and shortcomings of these architectures, and discussed the implications along with the possibilities for future work.<br>This work is done for the course project of CSCI 535 Multimodal Probabilistic Learning of Human Communication, Spring 2024, USC."
+summary: "Developed unimodal audio and vision, and multimodal emotion recognition pipelines. Employed various classes of shared encoders -- 2D CNNs (ResNet18, GoogLeNet, VGG16), 3D CNNs (Simple3D CNN, I3D), Transformers (ViT, VideoMAE). Tested our pipelines on a full-scale version of CREMA-D dataset that contains 7442 videos of actors expressing 6 kinds of emotions in various intensities. Presented a principled comparison of the performance of different pipelines and encoders, identified the achievements and shortcomings of these architectures, and discussed the implications along with the possibilities for future work.<br>This work was done for the course project of CSCI 535 Multimodal Probabilistic Learning of Human Communication, Spring 2024, USC."
 authors:
   - admin
   - Riya Ranjan
