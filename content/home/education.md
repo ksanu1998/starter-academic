@@ -48,7 +48,7 @@ experience:
     company_logo: usc
     location: Los Angeles, CA, USA
     date_start: '2022-08-22'
-    # date_end: ''
+    date_end: '2024-05-10'
     # description: 
 
   # - title: Project Associate - I at DREAM:Lab

@@ -30,7 +30,7 @@ experience:
     company_logo: usc
     location: Los Angeles, CA, USA
     date_start: '2023-08-21'
-    # date_end: '2023-08-04'
+    date_end: '2024-05-10'
     # description: 
 
   - title: Machine Learning Software Intern
