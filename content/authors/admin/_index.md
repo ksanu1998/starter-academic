@@ -10,12 +10,12 @@ last_name: Kesanapalli
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student
+role: USC | IISc | IIT Dh | J N Tata Scholar <br> <small>[Actively seeking full-time opportunities] </small>
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Southern California
-    url: https://www.cs.usc.edu
+  # - name: University of Southern California
+    # url: https://www.cs.usc.edu
 
 # Short bio (displayed in user profile at end of posts)
 # bio: I am a second year master's student in Computer Science at the University of Southern California. My research interests are chiefly Statistical Machine Learning, Edge-GPU Performance Characterization, Deep Learning Theory, Stochastic Optimization, Federated Learning, and Embedded Computing.
@@ -81,7 +81,7 @@ email: ksanu1998@gmail.com
 highlight_name: true
 ---
 
-I graduated with a Master of Science in Computer Science from <a href="https://www.cs.usc.edu/">University of Southern California</a>, during which I was a Research Assistant and Course Producer for graduate-level ML courses, supervised by Prof. <a href="https://vatsalsharan.github.io/">Vatsal Sharan</a>. Earlier I worked on systems for ML research at <a href="https://iisc.ac.in/">Indian Institute of Science</a> as a Project Associate, advised by Prof. <a href="http://cds.iisc.ac.in/faculty/simmhan/">Yogesh Simmhan</a>. Prior to that I graduated with a Bachelor of Technology in Computer Science and Engineering from <a href="https://www.iitdh.ac.in/">Indian Institute of Technology Dharwad</a>, where I worked on FL, advised by Prof. <a href="https://bnbharath.wordpress.com/">B N Bharath</a>. I am a recipient of several accolades such as J N Tata Endowment Scholarship, NSF Travel Grant, Gift Award and Travel Grant by Tata Education and Development Trust.<br><br>
+I graduated with a Master of Science in Computer Science from <a href="https://www.cs.usc.edu/">University of Southern California</a>, during which I was a Research Assistant and Course Producer for graduate-level ML courses, supervised by Prof. <a href="https://vatsalsharan.github.io/">Vatsal Sharan</a>. I worked as a Machine Learning Software Intern at <a href="https://www.degirum.ai/">DeGirum Corp.</a> Earlier I worked on systems for ML research at <a href="https://iisc.ac.in/">Indian Institute of Science</a> as a Project Associate, advised by Prof. <a href="http://cds.iisc.ac.in/faculty/simmhan/">Yogesh Simmhan</a>. Prior to that I graduated with a Bachelor of Technology in Computer Science and Engineering from <a href="https://www.iitdh.ac.in/">Indian Institute of Technology Dharwad</a>, where I worked on FL, advised by Prof. <a href="https://bnbharath.wordpress.com/">B N Bharath</a>. I am a recipient of several accolades such as J N Tata Endowment Scholarship, NSF Travel Grant, Gift Award and Travel Grant by Tata Education and Development Trust.<br><br>
 <b>Email:</b> ksanu1998 [at] gmail [dot] com
 <!-- rI am a second year master’s student in Computer Science at the <a href="https://www.cs.usc.edu/">University of Southern California</a>. I have been awarded the prestigious <a href="https://www.tata.com/newsroom/backing-the-brightest-jn-tata-endowment-fund">J N Tata Endowment scholarship</a> for the higher education of Indians.
 
