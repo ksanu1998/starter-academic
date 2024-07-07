@@ -21,7 +21,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "28th IEEE International Conference on High Performance Computing, Data & Analytics Student Research Symposium"
-publication_short: "HiPC (SRS) 2021"
+publication_short: "`HiPC (SRS) 2021`"
 
 abstract: "Deep Learning (DL) models have had a significant impact on domains like autonomous vehicles, urban safety and Internet of Things (IoT) by enabling low-latency inferencing on edge computing devices, close to the data source. With the massive growth in sensor and camera data from such domains, the need to maintain freshness of models through retraining, and the heightened attention to privacy, training of DL models on GPU-accelerated low-power edges like NVIDIA Jetson through techniques like federated learning is gaining importance. Such training is resource-intensive and can stress the capacity of an edge’s resources like GPU, CPU, memory and storage. While previous studies have profiled the resource usage and identified bottlenecks of ML workloads on accelerated Cloud VMs and server, such a characterization has been absent for edge devices whose field-deployments are rapidly increasing. In this work, we closely examine a ML model training on the Nvidia Jetson Xavier AGX and Xavier NX. We vary several training and device parameters such as dataset size, I/O threads and storage device, and measure the CPU and GPU compute time and utilization, fetch stalls, and end-to-end time to understand the bottlenecks in the training pipeline. Our analysis identifies several interesting insights on the effect of storage medium and caching on the training time in the edge."
 

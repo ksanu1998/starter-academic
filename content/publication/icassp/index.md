@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
-publication_short: "ICASSP 2021"
+publication_short: "`ICASSP 2021`"
 
 abstract: "In this paper, we consider the problem of Federated Learning (FL) under non-i.i.d data setting. We provide an improved estimate of the empirical loss at each node by using a weighted average of losses across nodes with a penalty term. These uneven weights to different nodes are assigned by taking a novel Bayesian approach to the problem where the problem of learning for each device/node is cast as maximizing the likelihood of a joint distribution. This joint distribution is for losses of nodes obtained by using data across devices for a given neural network of a node. We then provide a PAC learning guarantee on the objective function which reveals that the true average risk is no more than the proposed objective and the error term. We leverage this guarantee to propose an algorithm called Omni-Fedge. Using MNIST and Fashion MNIST data-sets, we show that the performance of the proposed algorithm is significantly better than existing algorithms."
 

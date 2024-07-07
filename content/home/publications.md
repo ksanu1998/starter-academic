@@ -7,7 +7,7 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 20
 
 title: Publications
 subtitle: ''
@@ -33,7 +33,7 @@ content:
 design:
   # Choose a view for the listings:
   view: citation
-  columns: '2'
+  columns: '1'
 ---
 
 <!-- {{% callout note %}}

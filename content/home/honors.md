@@ -13,8 +13,8 @@ weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 # title: 'Accomplish&shy;ments'
-title: Awards
-subtitle: \& Achievements
+title: Honors
+subtitle: \& Awards
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -55,7 +55,7 @@ item:
     # description: ''
     organization: Indian Institute of Technology Dharwad
     organization_url: https://www.iitdh.ac.in/
-    title: 'AP Grade for exceptional performance'
+    title: 'AP grade (awarded twice)'
     # url: ''
 
   - certificate_url: 
@@ -71,14 +71,14 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2017-07-21'
-    organization: IIT JEE (Advanced) 
-    title: All India Rank 8682
+    organization: IIT Joint Entrance Examnination (Advanced)
+    title: All India Rank 8682 (among ~171,000 candidates)
 
   - certificate_url: 
     date_end: ''
     date_start: '2016-04-22'
-    organization: TSBIE Intermediate Public Examination
-    title: Telangana State Rank 1
+    organization: Telangana State Board of Intermediate Education Public Examination
+    title: State Rank 1 (among ~700,000 candidates)
 
   # - certificate_url: 
   #   date_end: ''
@@ -132,16 +132,16 @@ item:
   #   title: 'Student Coordinator'
   #   # url: ''
   
-  - certificate_url: '' 
+  # - certificate_url: '' 
     # date_end: ''
-    date_start: '2014-05-15'
+    # date_start: '2014-05-15'
     # description: ''
-    organization: St. Michael’s School, Secunderabad, TS, India
-    organization_url: 
-    title: 'Meritorious Student, School Topper, and Star of Stars'
+    # organization: St. Michael’s School, Secunderabad, TS, India
+    # organization_url: 
+    # title: 'Meritorious Student, School Topper, and Star of Stars'
     # url: ''
 
 design:
-  columns: '2'
-  view: 2
+  columns: '1'
+  view: 1
 ---

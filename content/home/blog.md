@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Recent Posts
+title: Blog
 subtitle:
 
 content:
@@ -34,5 +34,5 @@ content:
 design:
   # Choose a view for the listings:
   view: compact
-  columns: '2'
+  columns: '1'
 ---

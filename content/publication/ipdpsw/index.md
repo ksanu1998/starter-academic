@@ -22,7 +22,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "2022 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)"
-publication_short: "IPDPSW 2022"
+publication_short: "`IPDPSW 2022`"
 
 abstract: "In this position paper, we explore the systems research challenges offered by DNN training on accelerated edge devices. Specifically, we examine the Nvidia Jetson devices, and explore system tuning opportunities offered by frequency and power controls, workload-specific hardware configurations, utilizing shared memory effectively, minimizing data stalls, etc. Our observations are based on first-hand experience with 20 Nvidia Jetson devices – Xavier AGX, Xavier NX, Nano, TX2 and TX1 development kits which have 2-8 ARM cores at 1.43-2.26 GHz, and a peak power of 10W–30W."
 
