@@ -19,15 +19,15 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Honors
-    url: '#honors'
-    weight: 40
+  # - name: Honors
+  #   url: '#honors'
+  #   weight: 40
   # - name: Miscellaenous
   #   url: '#misc'
   #   weight: 70
   - name: Blog
     url: '#blog'
-    weight: 50
+    weight: 40
   # - name: Contact
   #   url: '#contact'
   #   weight: 90
