@@ -3,7 +3,6 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# title: Anuroop's Portfolio # Website name
 title: Anuroop # Website name
 baseURL: 'https://ksanu1998.github.io/' # Website URL
 

@@ -1,9 +1,9 @@
 ---
-title: Great learning resources
-subtitle: This is a compendium of excellent books, lecture notes, and slides, spanning various fields of study in Mathematics, Machine Learning, Computer Science, Engineering, Natural Sciences, Social Sciences, and Literature, that are publicly available.
+# title: Resources
+subtitle: A compendium of excellent books, lecture notes, and slides, spanning various fields of study, that are publicly available.
 
 # Summary for listings and search engines
-summary: This is a compendium of excellent books, lecture notes, and slides, spanning various fields of study in Mathematics, Machine Learning, Computer Science, Engineering, Natural Sciences, Social Sciences, and Literature, that are publicly available.
+# summary: 
 # Link this post with a project
 # projects: []
 
@@ -13,11 +13,7 @@ date: '2024-03-06T00:00:00Z'
 # Date updated
 lastmod: '2024-03-07T00:00:00Z'
 
-# Is this an unpublished draft?
-draft: false
-
-# Show this page in the Featured widget?
-featured: true
+share: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -28,7 +24,7 @@ featured: true
 #   preview_only: false
 
 authors:
-  - admin
+  - Sai Anuroop Kesanapalli
 
 # tags:
 #   - Academic
@@ -36,8 +32,13 @@ authors:
 # categories:
 #   - 
 ---
+<style>
+    .deeppink {
+        color: deeppink;
+    }
+</style>
 
-## Mathematics
+### <span class="deeppink">Mathematics</span>
 * [**Introduction to Probability**](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/d973b10c2587781f86ca4f2aff49098f_MITRES_6_012S18_Textbook.pdf), by Dimitri P. Bertsekas and John N. Tsitsiklis
 * [**Introduction to Probability and Statistics for Engineers and Scientists**](https://minerva.it.manchester.ac.uk/~saralees/statbook3.pdf), by Sheldon M. Ross
 * [**Elements of Discrete Mathematics**](https://www.people.vcu.edu/~rhammack/Discrete/Alpha.pdf), by Richard Hammack
@@ -50,7 +51,7 @@ authors:
 * [**Convex Optimization**](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf), by Stephen Boyd and Lieven Vandenberghe
 * [**Notes on Group Theory**](http://home.iitk.ac.in/~chavan/alg1.pdf), by Sameer Chavan
 
-## Machine Learning
+### <span class="deeppink">Machine Learning</span>
 * [**Machine Learning: The Basics**](https://alexjungaalto.github.io/MLBasicsBook.pdf), by Alexander Jung
 * [**Pattern Recognition and Machine Learning**](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), by Christopher M. Bishop
 * [**Artificial Intelligence: A Modern Approach**](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf), by Stuart Russell and Peter Norvig
@@ -62,7 +63,7 @@ authors:
 From Theory to Algorithms**](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf), by Shai Shalev-Shwartz and Shai Ben-David
 * [**Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition**](https://web.stanford.edu/~jurafsky/slp3/ed3bookfeb3_2024.pdf), by Daniel Jurafsky and James H. Martin
 
-## Computer Science
+### <span class="deeppink">Computer Science</span>
 * [**Introduction to Automata Theory, Languages, and Computation**](https://www-2.dc.uba.ar/staff/becher/Hopcroft-Motwani-Ullman-2001.pdf), by John E. Hopcroft, Rajeev Motwani, and Jeffrey D. Ullman
 * [**Algorithms**](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf), by S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani
 * [**Algorithm Design**](https://dl.icdst.org/pdfs/files3/9ce98c127c79e548ebea18966f526ae9.pdf), by Jon Kleinberg and Éva Tardos
@@ -75,12 +76,12 @@ From Theory to Algorithms**](https://www.cs.huji.ac.il/~shais/UnderstandingMachi
 * [**Software Engineering: A Practitioner's Approach**](https://intranetssn.github.io/www.ssn.net/twiki/pub/CseIntranet/CseBCS6403/PressmanBook.pdf), by Roger S. Pressman
 * [**Distributed Systems: Concepts and Design**](https://bedford-computing.co.uk/learning/wp-content/uploads/2016/03/george-coulouris-distributed-systems-concepts-and-design-5th-edition.pdf), by George Coulouris, Jean Dollimore, Tim Kindberg, and Gordon Blair
 
-## Engineering
+### <span class="deeppink">Engineering</span>
 * [**Engineering Drawing**](https://ia601704.us.archive.org/22/items/engineering-drawing-by-n.-d-bhatt/ENGINEERING%20DRAWING%20BY%20N.D%20BHATT.pdf), by N. D. Bhatt
 * [**Foundations of Analog and Digital Circuits**](https://ia801500.us.archive.org/12/items/Foundations_of_Analog_and_Digital_Circuits_Mas/Foundations_of_Analog_and_Digital_Circuits_Mas.pdf), by Anant Agarwal and Jeffrey Lang
 * [**Digital Logic and Computer Design**](https://ia800607.us.archive.org/3/items/DigitalLogicAndComputerDesignByM.MorrisMano2ndEdition/Digital%20Logic%20And%20Computer%20Design%20By%20M.%20Morris%20Mano%20%282nd%20Edition%29.pdf), by M. Morris Mano
 
-## Natural Sciences
+### <span class="deeppink">Natural Sciences</span>
 * [**Concepts of Physics**](https://images.collegedunia.com/public/image/b8ccbe2a7cb4dc6c7a5bbcb1bec3c41f.pdf), by H. C. Verma
 * [**Problems in General Physics**](https://ia600709.us.archive.org/1/items/IrodovProblemsInGeneralPhysics/Irodov-Problems_in_General_Physics.pdf), by I. E. Irodov
 * [**Fundamentals of Physics**](https://ia801804.us.archive.org/28/items/2014-jw-fundamentals-of-physics-extended-10th-ed-tand-a_202011/2014%20JW%20Fundamentals%20Of%20Physics%20Extended%2010th%20Ed%20TandA.pdf), by Robert Resnick, David Halliday, and Jearl Walker
@@ -89,13 +90,13 @@ From Theory to Algorithms**](https://www.cs.huji.ac.il/~shais/UnderstandingMachi
 * [**Campbell Biology**](https://www.pearsonhighered.com/assets/preface/0/1/3/5/0135855837.pdf), by Lisa A. Urry, Michael L. Cain, Steven A. Wasserman, Peter V. Minorsky, and Rebecca B. Orr
 
 
-## Social Sciences
+### <span class="deeppink">Social Sciences</span>
 * [**Microeconomics**](https://lms-paralel.esaunggul.ac.id/pluginfile.php?file=%2F222814%2Fmod_resource%2Fcontent%2F2%2FMicroeconomics%20-%20Robert%20Pindyck%2C%20Daniel%20Rubinfeld.pdf), by Robert S. Pindyck and Daniel L. Rubinfeld
 * [**Macroeconomics**](https://jollygreengeneral.typepad.com/files/n.-gregory-mankiw-macroeconomics-7th-edition-2009.pdf), by N. Gregory Mankiw
 * [**Economics**](https://moodle.estgv.ipv.pt/201920/pluginfile.php/59329/mod_resource/content/1/samunord19.pdf), by Paul A. Samuelson and William D. Nordhaus
 * [**Course in General Linguistics**](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fulllist/first/en122/lecturelist2019-20/saussure_course_in_general_linguistics.pdf), by Ferdinand de Saussure, translated and annotated by Roy Harris
 
-## Literature
+### <span class="deeppink">Literature</span>
 * [**Rig-Veda-Sanhita: The Sacred Hymns of the Brahmans**](https://archive.org/details/rigvedasanhitasa01syaauoft/page/n7/mode/2up), together with the commentary of Sayanacharya, edited by Max Müller
 * [**The Yajur Veda**](https://ia802901.us.archive.org/33/items/yajurveda029670mbp/yajurveda029670mbp.pdf), translated by Devi Chand
 * [**SamaVeda**](https://ia801906.us.archive.org/6/items/wg867/WG867-2013-SamVeda.pdf), English translation by Tulsi Ram
