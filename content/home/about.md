@@ -36,7 +36,7 @@ design:
 
 <style>
 .nobullet li {
-  list-style-type: none; 
+  list-style-type: none;
 }
 </style>
 
@@ -56,5 +56,5 @@ design:
     <i class="ai ai-google-scholar ai-lg"></i>
   </a>
 
-* <b>Email:</b> ksanu1998 [at] gmail [dot] com <br>
+* <b>Email:</b> ksanu2022us [at] gmail [dot] com <br>
 </div>
