@@ -9,7 +9,8 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: L
+  # font_size: L
+  font_size: M
 
 # SEO
 
@@ -33,19 +34,17 @@ header:
   navbar:
     enable: true
     align: l
-    show_logo: true
+    show_logo: false
     show_language: false
-    show_day_night: true
-    show_search: true
+    show_day_night: false
+    show_search: false
     highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© 2023 Sai Anuroop Kesanapalli. All rights reserved.'
-    # notice: '© {year} Sai Anuroop Kesanapalli. All rights reserved.'
-    # notice: '© {year} Sai Anuroop Kesanapalli. This work is licensed under {license}'
+    notice: '© 2017-2024 Sai Anuroop Kesanapalli. All rights reserved.'
     license:
       enable: false
       allow_derivatives: false
