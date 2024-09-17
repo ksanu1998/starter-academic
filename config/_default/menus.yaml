@@ -5,6 +5,7 @@
 
 main:
   - name: Home
+    url:
     weight: 10
   - name: Resources
     url: '/post/learning-resources/'

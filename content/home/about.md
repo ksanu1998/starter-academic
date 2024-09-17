@@ -1,7 +1,7 @@
 --- 
 # An instance of the About widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-# widget: about
+widget: about
 
 # Activate this widget? true/false
 active: true
@@ -14,12 +14,14 @@ weight: 10
 
 # title: About
 
-design:
+# design:
   # Choose a view for the listings:
-  view: card
-  columns: '1'
+  # view: card
+  # columns: '1'
+
+author: admin
 ---
-<style>
+<!-- <style>
     .deeppink {
         color: deeppink;
     }
@@ -58,4 +60,4 @@ design:
   </a>
 
 * <b>Email:</b> ksanu2022us [at] gmail [dot] com <br>
-</div>
+</div> -->
