@@ -10,34 +10,24 @@ last_name: Kesanapalli
 superuser: true
 
 # Role/position/tagline
-# role: Performance Analysis Engineer @ NetApp | USC | IISc | IIT Dharwad | J N Tata Scholar
-# role: <small>[Actively seeking full-time opportunities] </small>
+# role:
 # Organizations/Affiliations to show in About widget
 # organizations:
-#   - name: NetApp Inc.
+#   - name:
     # url: 
 
 # Short bio (displayed in user profile at end of posts)
-# bio: I am a second year master's student in Computer Science at the University of Southern California. My research interests are chiefly Statistical Machine Learning, Edge-GPU Performance Characterization, Deep Learning Theory, Stochastic Optimization, Federated Learning, and Embedded Computing.
-# bio:
+# bio: 
 
 # Interests to show in About widget
 # interests:
-#   - Federated Learning
-#   - Statistical Machine Learning
-#   - Edge-Computing
-#   - Edge Accelerator Performance Characterization
-#   - Distributed and Stochastic Optimisation
-
+#   - 
 # Education to show in About widget
 # education:
 #   courses:
-#     - course: MS in Computer Science
-#       institution: University of Southern California
-#       year: 2024
-#     - course: BTech in Computer Science and Engineering
-#       institution: Indian Institute of Technology Dharwad
-#       year: 2021
+#     - course:
+#       institution:
+#       year:
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,13 +35,12 @@ superuser: true
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 # social:
   # - icon: envelope
-  #   icon_pack: fas
-    # link:
+    # icon_pack: fas
     # link:
   # - icon: twitter
     # icon_pack: fab
     # link:
-    # label: Follow me on Twitter
+    # label:
     # display:
       # header: true
   # - icon: github
@@ -60,9 +49,6 @@ superuser: true
   # - icon: linked/in
   #   icon_pack: fab
   #   link:
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    # icon_pack: fas
-    # link:
   # - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: ai
   #   link:
@@ -75,7 +61,6 @@ superuser: true
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: 
-# email:
 
 # Highlight the author in author lists? (true/false)
 # highlight_name: true
