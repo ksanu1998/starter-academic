@@ -73,7 +73,7 @@ superuser: true
 
 <br>
 
-* Incoming Performance Analysis Engineer -- Core Engineering at <span class="deeppink"> NetApp</span>.
+* Performance Analysis Engineer -- Core Engineering at <span class="deeppink"> NetApp</span>.
 * Graduated with Master of Science Computer Science from <span class="deeppink"> University of Southern California</span> ('24), and Bachelor of Technology in Computer Science and Engineering from <span class="deeppink"> Indian Institute of Technology Dharwad </span> ('21).
 * Worked on systems for ML research as Project Associate - I at DREAM:Lab, Department of Computational and Data Sciences, <span class="deeppink"> Indian Institute of Science</span>. Worked as Machine Learning Software Intern at <span class="deeppink"> DeGirum Corp</span>.
 * Recipient of several accolades such as J N Tata Endowment Scholarship, NSF Travel Grant, Gift Award and Travel Grant by Tata Education and Development Trust.
